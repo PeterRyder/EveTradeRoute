@@ -5,9 +5,9 @@
 This project uses pipenv
 
 ```
-pipenv install
-pipenv shell
-python main.py
+* pipenv install
+* pipenv shell
+* python main.py
 ```
 
 ## Authors
